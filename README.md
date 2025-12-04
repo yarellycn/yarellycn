@@ -52,5 +52,3 @@ Reproduction du célèbre jeu Pac-Man en 2D : déplacements, IA des fantômes, c
 - 🇫🇷 Français : Avancé  
 - 🇬🇧 Anglais : Avancé  
 - 🇮🇹 Italien : Basique  
-
----
