@@ -26,7 +26,7 @@ Actuellement à la recherche d’une **alternance à partir de janvier 2026  ave
 
 ---
 
-## 🎮 **Projets mis en avant**
+## 🎮 **Projets informatiques**
 
 ### 🐍 **Hangman 2D – Python & Pygame**
 Développement d’un jeu du pendu interactif avec interface graphique.  
