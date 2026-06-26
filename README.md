@@ -115,5 +115,5 @@ Portfolio personnel développé avec Next.js présentant mon parcours, mes comp�
 ## Me contacter
 
 * *[LinkedIn](https://www.linkedin.com/in/yarelly-cotrina-navarro/)*
-* *([Portfolio](https://yb-portfolio-one.vercel.app/fr))*
+* *[Portfolio](https://yb-portfolio-one.vercel.app/fr)*
 * Mail : [yarellycn@gmail.com](mailto:yarellycn@gmail.com)
