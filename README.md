@@ -1,54 +1,119 @@
-## Bonjour ! Moi, c'est Yarelly Berger 👋
-### Développeuse | Étudiante en Master of Science à Epitech
+# Bonjour ! Moi, c'est Yarelly Cotrina 👋
 
-Développeuse en formation, je poursuis un **Master of Science à Epitech (2025–2028)**.  
-Après plusieurs années dans l’hôtellerie de luxe, j’ai choisi de me réorienter vers **l'informatique**.
+### Développeuse Full-Stack | Étudiante en Master of Science à Epitech
 
-Passionnée, curieuse et déterminée, j’aime apprendre par la pratique, construire des projets interactifs et améliorer mes compétences chaque jour.
-Actuellement à la recherche d’une **alternance à partir de janvier 2026  avec un rythme de 2 semaines en école et 4 semaines en entreprise**.
+Après plus de trois ans d'expérience dans l'hôtellerie de luxe, j'ai choisi de me réorienter vers le développement logiciel.
 
----
+Je poursuis actuellement un **Master of Science à Epitech** et je recherche une **alternance de 24 mois à partir de septembre 2026**.
 
-## 🚀 **Technologies & Outils**
-
-### 💻 Langages
-- Python • JavaScript • HTML/CSS  
-- Java • PHP • SQL  
-
-### 🧰 Frameworks & Bibliothèques
-- Vue.js • Next.js • Express.js  
-- Pygame (développement de jeux 2D)
-
-### 🛠️ Outils & Méthodologies
-- Git & GitHub  
-- VS Code  
-- Figma  
+J'aime concevoir des applications web modernes, développer des API, manipuler des données et apprendre de nouvelles technologies à travers des projets concrets.
 
 ---
 
-## 🎮 **Projets informatiques**
+## Stack technique
 
-### 🐍 **Hangman 2D – Python & Pygame**
-Développement d’un jeu du pendu interactif avec interface graphique.  
-Gestion du clavier, affichage dynamique, erreurs et animations.
+### Langages
 
-### 💻 **Site CV (HTML, CSS, JS)**
-Création d’un site web personnel responsive présentant mon parcours et mes compétences.
+* TypeScript
+* JavaScript
+* Python
+* Java
+* Dart
+* PHP
+* SQL
+* HTML / CSS
 
-### 🌐 **Job Board – Stanley Jobs (Vue.js, Express.js, SQL)**
-Plateforme web full-stack permettant de publier et rechercher des offres d’emploi.  
-Fonctionnalités : authentification, CRUD, base de données, interface responsive.
+### Front-end
 
-### 🚀 **Portfolio (Next.js & React)**
-Développement d’un portfolio dynamique regroupant mes projets, compétences et informations professionnelles.
+* React
+* Next.js
+* Flutter Web
+* Vue.js
+* Tailwind CSS
 
-### 👾 **Recréation de Pac-Man (En développement)**
-Reproduction du célèbre jeu Pac-Man en 2D : déplacements, IA des fantômes, collisions, scoring et animations.
+### Back-end
+
+* Node.js
+* Express.js
+* NestJS
+* API REST
+* WebSocket
+
+### Bases de données
+
+* PostgreSQL
+* MariaDB
+* Supabase
+* Prisma ORM
+
+### Data & IA
+
+* Analyse de texte
+* NLP
+* spaCy
+* NLTK
+* scikit-learn
+* Topic Modeling
+* Similarité textuelle
+
+### Outils
+
+* Git & GitHub
+* Docker
+* Turborepo
+* Figma
 
 ---
 
-## 🌍 **Langues**
-- 🇪🇸 Espagnol : Natif  
-- 🇫🇷 Français : Avancé  
-- 🇬🇧 Anglais : Avancé  
-- 🇮🇹 Italien : Basique  
+# Quelques projets
+
+### CIELO
+
+Application météo développée avec Flutter Web utilisant les API Open-Meteo pour consulter les prévisions et les données historiques.
+
+**Stack :** Flutter Web • Dart • Open-Meteo API
+
+---
+
+### DROXYDE
+
+Plateforme de chat temps réel inspirée de Discord avec authentification, serveurs, salons, rôles et messagerie instantanée.
+
+**Stack :** Next.js • NestJS • PostgreSQL • Prisma • Supabase • WebSocket
+
+---
+
+### BOOKWORM
+
+Projet de traitement automatique du langage permettant d'analyser des livres, détecter les personnages, extraire les thèmes principaux et recommander des ouvrages similaires.
+
+**Stack :** Python • spaCy • NLTK • scikit-learn
+
+---
+
+### PAC-MAN
+
+Recréation complète de Pac-Man avec Java et LibGDX : gameplay, IA des fantômes, collisions et système de score.
+
+---
+
+### Portfolio
+
+Portfolio personnel développé avec Next.js présentant mon parcours, mes compétences et mes projets.
+
+---
+
+## Langues
+
+* 🇪🇸 Espagnol — Natif
+* 🇫🇷 Français — Avancé (C1)
+* 🇬🇧 Anglais — Avancé (C1)
+* 🇮🇹 Italien — Basique (A2)
+
+---
+
+## Me contacter
+
+* LinkedIn : [*(lien)*](https://www.linkedin.com/in/yarelly-cotrina-navarro/)
+* Portfolio : [*(lien)*](https://yb-portfolio-one.vercel.app/fr)
+* Mail : [yarellycn@gmail.com](mailto:yarellycn@gmail.com)
