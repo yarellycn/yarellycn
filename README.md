@@ -1,4 +1,4 @@
-# Bonjour ! Moi, c'est Yarelly Cotrina 👋
+# Bonjour ! Moi, c'est Yarelly BERGER
 
 ### Développeuse Full-Stack | Étudiante en Master of Science à Epitech
 
