@@ -2,8 +2,6 @@
 
 ### Développeuse Full-Stack | Étudiante en Master of Science à Epitech
 
-Après plus de trois ans d'expérience dans l'hôtellerie de luxe, j'ai choisi de me réorienter vers le développement logiciel.
-
 Je poursuis actuellement un **Master of Science à Epitech** et je recherche une **alternance de 24 mois à partir de septembre 2026**.
 
 J'aime concevoir des applications web modernes, développer des API, manipuler des données et apprendre de nouvelles technologies à travers des projets concrets.
